@@ -1,3 +1,3 @@
 # Wallet
-A simple   wallet smart contract.Simple copy code and paste on remix to start
+A simple wallet smart contract that show all basic functions a wallet smaet contract would have.
 
